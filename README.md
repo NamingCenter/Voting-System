@@ -1,2 +1,2 @@
-# Voting-Sytem
+# Voting-System
 Solidity - DAPP - Voting Sytem
